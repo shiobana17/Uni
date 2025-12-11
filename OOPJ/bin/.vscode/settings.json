@@ -1,0 +1,7 @@
+{
+    // 1. Tells the compiler to look for .java files in the root folder ('.')
+    "java.project.sourcePaths": ["."], 
+
+    // 2. Tells the compiler to place all compiled .class files in the 'bin' folder
+    "java.project.outputPath": "bin"
+}
